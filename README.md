@@ -7,3 +7,8 @@ https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%
 https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding
 
 	Some time ago searched for understandable implementation of this algorithm, in summary i wrote it by myself, if you need it, you can use it :)
+
+
+
+
+![alt text](https://github.com/F0RIS/ShannonFano-java-implementation/blob/master/demo.png "Demo png")
